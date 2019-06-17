@@ -1,0 +1,68 @@
+{
+    "menu": 
+    [
+        {
+            "kategori" : "kulkas",
+            "nama" : "Kulkas 1",
+            "descripsi" : "Kulkas ini merupakan kulkas yang sangat bagus",
+            "harga" : "2000000",
+            "gambar" : "gambar1.jpg"
+        },
+
+        {
+            "kategori" : "kulkas",
+            "nama" : "Kulkas 2",
+            "descripsi" : "Kulkas ini merupakan kulkas yang sangat bagus",
+            "harga" : "2500000",
+            "gambar" : "gambar2.jpg"
+        },
+
+        {
+            "kategori" : "kulkas",
+            "nama" : "Kulkas 3",
+            "descripsi" : "Kulkas ini merupakan kulkas yang sangat bagus",
+            "harga" : "2200000",
+            "gambar" : "gambar3.jpg"
+        },
+
+        {
+            "kategori" : "tv",
+            "nama" : "Tv 1",
+            "descripsi" : "Tv ini merupakan kulkas yang sangat bagus",
+            "harga" : "1500000",
+            "gambar" : "tv1.jpg"
+        },
+
+        {
+            "kategori" : "tv",
+            "nama" : "Tv 2",
+            "descripsi" : "Tv ini merupakan kulkas yang sangat bagus",
+            "harga" : "1800000",
+            "gambar" : "tv2.jpg"
+        },
+
+        {
+            "kategori" : "tv",
+            "nama" : "Tv 3",
+            "descripsi" : "Tv ini merupakan kulkas yang sangat bagus",
+            "harga" : "1700000",
+            "gambar" : "tv3.jpg"
+        },
+
+        {
+            "kategori" : "handphone",
+            "nama" : "HandPhone 1",
+            "descripsi" : "HandPhone ini merupakan kulkas yang sangat bagus",
+            "harga" : "1100000",
+            "gambar" : "handphone1.jpg"
+        },
+
+        {
+            "kategori" : "handphone",
+            "nama" : "HandPhone 2",
+            "descripsi" : "HandPhone ini merupakan kulkas yang sangat bagus",
+            "harga" : "1200000",
+            "gambar" : "handphone1.jpg"
+        }
+    ]
+}
